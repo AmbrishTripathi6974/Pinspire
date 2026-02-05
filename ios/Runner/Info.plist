@@ -47,5 +47,13 @@
 		<true/>
 		<key>UIStatusBarHidden</key>
 		<false/>
+		<!-- Camera permission -->
+		<key>NSCameraUsageDescription</key>
+		<string>We need access to your camera to take photos for creating pins.</string>
+		<!-- Photo library permissions -->
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>We need access to your photo library to select images for creating pins.</string>
+		<key>NSPhotoLibraryAddUsageDescription</key>
+		<string>We need permission to save images to your photo library.</string>
 	</dict>
 </plist>
